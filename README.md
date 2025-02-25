@@ -28,10 +28,11 @@
 >
 >Multicast Routing Protocols:
 
-## PIM (Protocol Independent Multicast) – Sparse Mode, Dense Mode, Bidirectional
-##IGMP (Internet Group Management Protocol)
-## MSDP (Multicast Source Discovery Protocol)
-## Tunneling & Overlay Protocols:
+### PIM (Protocol Independent Multicast) – Sparse Mode, Dense Mode, Bidirectional
+### IGMP (Internet Group Management Protocol)
+### MSDP (Multicast Source Discovery Protocol)
+
+### Tunneling & Overlay Protocols:
 
 > L2TP (Layer 2 Tunneling Protocol)
 >
@@ -68,7 +69,7 @@
 >
 > STP/RSTP/MSTP (Spanning Tree Protocols)
 
-##IP Forwarding:
+## IP Forwarding:
 
 > IPv4/IPv6 packet forwarding
 >
